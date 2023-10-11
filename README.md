@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://superlative-bienenstitch-1a1e1f.netlify.app/](https://superlative-bienenstitch-1a1e1f.netlify.app/)
 
-- 💬 Ask me about **Flutter and SwiftUI**
+- 💬 Ask me about **Swift, UIKit and SwiftUI**
 
 - 📫 How to reach me **metehangurgentepe@gmail.com**
 
