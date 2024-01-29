@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [swift projects](https://github.com/metehangurgentepe/whichFood)
 
-- 🌱 I’m currently learning **Swift and UIKit**
+- 🌱 I’m currently learning **Swift, UIKit and SwiftUI**
 
 - 👨‍💻 All of my projects are available at [https://superlative-bienenstitch-1a1e1f.netlify.app/](https://superlative-bienenstitch-1a1e1f.netlify.app/)
 
