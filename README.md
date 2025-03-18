@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **metehangurgentepe@gmail.com**
 
-- 📄 Know about my experiences [https://superlative-bienenstitch-1a1e1f.netlify.app/resume](https://superlative-bienenstitch-1a1e1f.netlify.app/resume)
+- 📄 Know about my experiences [https://superlative-bienenstitch-1a1e1f.netlify.app/resume](https://metehangurgentepe.netlify.app/resume)
 
 - ⚡ Fun fact **I**
 
