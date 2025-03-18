@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **Swift, UIKit and SwiftUI**
 
-- 👨‍💻 All of my projects are available at [https://superlative-bienenstitch-1a1e1f.netlify.app/](https://superlative-bienenstitch-1a1e1f.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://metehangurgentepe.netlify.app/](https://metehangurgentepe.netlify.app/)
 
 - 💬 Ask me about **Swift, UIKit and SwiftUI**
 
 - 📫 How to reach me **metehangurgentepe@gmail.com**
 
-- 📄 Know about my experiences [https://superlative-bienenstitch-1a1e1f.netlify.app/resume](https://metehangurgentepe.netlify.app/resume)
+- 📄 Know about my experiences [https://metehangurgentepe.netlify.app/resume](https://metehangurgentepe.netlify.app/resume)
 
 - ⚡ Fun fact **I**
 
