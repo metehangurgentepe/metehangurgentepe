@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on [swift projects](https://github.com/metehangurgentepe/whichFood)
 
-- 🌱 I’m currently learning **Swift, UIKit and SwiftUI**
+- 🌱 I’m currently learning **Swift, UIKit, SwiftUI and Flutter**
 
 - 👨‍💻 All of my projects are available at [https://metehangurgentepe.netlify.app/](https://metehangurgentepe.netlify.app/)
 
-- 💬 Ask me about **Swift, UIKit and SwiftUI**
+- 💬 Ask me about **Swift, UIKit, SwiftUI and Flutter**
 
 - 📫 How to reach me **metehangurgentepe@gmail.com**
 
